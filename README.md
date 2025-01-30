@@ -1,5 +1,5 @@
 # Memory-Game-JavaScript
-Check out the game: https://garvmathur7700.github.io/Memory-Game-JavaScript/
+Check out the game: https://garvmathur7700.github.io/Memory-Game-JavaScript/  
 A simple Simon Memory Game using HTML/CSS and JavaScript (jQuery).
 
 Steps to play:
